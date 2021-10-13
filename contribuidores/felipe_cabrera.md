@@ -1,6 +1,6 @@
 # Perfil
 
-Eu fou Felipe Cabrera, professor da ByLearn, , desenvolvedor de softwares desde 2007, tendo o Python como principal linguagem.
+Eu fou Felipe Cabrera, professor da ByLearn e desenvolvedor de softwares desde 2007, tendo o Python como principal linguagem.
 
 Durante minha trajetória foquei especialmente em Inteligência Artificial, porém, também tenho uma grande experiência profissional em Gestão de Projetos.
 
