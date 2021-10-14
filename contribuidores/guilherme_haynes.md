@@ -9,6 +9,6 @@ Hacktoberfest é um evento de nivel global para ajudar a comunidade de programa�
 # Onde vou contribuir 
 
 - bylearn/hacktoberfest-bylearner
-- Projeto de python
+- Projeto de Python
 - Projetos com Docker
 - Projetos que precisam de tradução para o irlandes do norte.
