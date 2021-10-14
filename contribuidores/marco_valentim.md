@@ -1,11 +1,14 @@
 # Perfil
 
-<Descreva mais sobre você>
+Olá sou Marco Valentim, sou formado em Gestão de TI.
 
 # O que acho do Hacktoberfest
 
-<Comente aqui o que você acha sobre o Hacktoberfest>
+Hacktoberfest é um evento de nível global para ajudar a comunidade de programação. Por isso acho muito legal e produtivo.
 
 # Onde vou contribuir
 
-<Comente um pouco sobre os projetos que você quer contribuir>
+- bylearn/hacktoberfest-bylearner
+- Projetos em C
+- Projetos em VBA 
+- Projetos em Java
