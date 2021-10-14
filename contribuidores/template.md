@@ -4,7 +4,7 @@
 
 # O que acho do Hacktoberfest
 
-<Conte aqui o que vocÊ acha sobre o hactoberfest>
+<Comente aqui o que você acha sobre o Hacktoberfest>
 
 # Onde vou contribuir 
 
