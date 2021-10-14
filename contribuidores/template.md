@@ -1,10 +1,10 @@
 # Perfil
 
-<Decreva mais sobre você>
+<Descreva mais sobre você>
 
 # O que acho do Hacktoberfest
 
-<Comente aqui o que vc acha sobre o Hacktoberfest>
+<Comente aqui o que você acha sobre o Hacktoberfest>
 
 # Onde vou contribuir 
 
