@@ -8,4 +8,4 @@ Hacktoberfest é um evento de nivel global para ajudar a comunidade de programa�
 
 # Onde vou contribuir 
 
-Em projetos, traduções, onde for possível.
+Em projetos, traduções, onde for possível;
